@@ -64,7 +64,7 @@ django project/
 1) Clone repository:
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
+git clone https://github.com/PatrickBenero/django-employee-register.git
 cd <your-repo>
 ```
 
@@ -130,5 +130,5 @@ Use these keys in `.env`:
 
 ## Author
 
-Your Name  
-GitHub: https://github.com/<your-username>
+Your Name :A.Patrick Benero
+GitHub: https://github.com/<PatrickBenero>
