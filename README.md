@@ -114,19 +114,7 @@ Use these keys in `.env`:
 - `DB_HOST`
 - `DB_PORT`
 
-## Security Notes
 
-- Do not commit `.env` to GitHub
-- Do not hardcode credentials in `settings.py`
-- Use `DJANGO_DEBUG=False` in production
-- Rotate credentials if they were ever committed publicly
-
-## Suggested Improvements
-
-- Add authentication and role permissions
-- Add pagination and search in employee list
-- Add validation rules and tests
-- Add CI checks (lint + tests) for quality
 
 ## Author
 
